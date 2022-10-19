@@ -1,0 +1,2 @@
+The only tracable data Fact Of The Day collects is server ids for the database and user ids when a fact is submitted, those user ids are immediately deleted once the fact submitted by the user has been sent, it also keeps the user id of the person who activated premium for a server while that premium is active.
+Fact Of The Day will keep the server id in the database forever in order to preserve progress and moderation of a server.
